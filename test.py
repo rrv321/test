@@ -8,3 +8,5 @@ def g():
 g()
 
 print('hello world')
+
+print('python')
