@@ -7,3 +7,4 @@ def g():
 	
 g()
 
+print('hello world')
